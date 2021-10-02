@@ -8,3 +8,4 @@ It contains repos available for hacktoberfest
 |[Amazing Js Projects](https://github.com/arpit456jain/Amazing-Js-Projects)|HTML,CSS,JS|
 |[CodeSmashers Blog In Django](https://github.com/arpit456jain/CodesmashersBlog-In-Django)|HTML,CSS,JS,Python,Django|
 |[Getting Started With Open Source](https://github.com/arpit456jain/Getting-Started-with-open-source)|Documentation,Git,GitHub|
+|[Developer Profile Readme](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/)|Documentation,Git,GitHub,Markdown|
