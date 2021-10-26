@@ -1,6 +1,13 @@
-# Repos-for-Hacktoberfest
+<div align="center">
+<h1>Beginner-friendly Repos-for-Hacktoberfest</h1> 
+  
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+  
+![Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
-It contains repos available for hacktoberfest
+ </div>    
+ 
+### It contains repos available for hacktoberfest
 
 | Repos                                                                                                | Tech Stack                                    | Overview |
 | ---------------------------------------------------------------------------------------------------- | --------------------------------------------- | -------- |
