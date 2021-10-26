@@ -11,7 +11,6 @@ It contains repos available for hacktoberfest
 | [Getting Started With Open Source](https://github.com/arpit456jain/Getting-Started-with-open-source) | Documentation,Git,GitHub                      | |
 | [Developer Profile Readme](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/)        | Documentation,Git,GitHub,Markdown             | |
 | [Eduhub Community Website](https://github.com/amandewatnitrr/Eduhub-Community/eduhub-website)        | HTML,CSS,JS,Bootstrap,DATABASE,( PHP/MongoDB) | |
-| [30-days-of-GCP-Full-Guide-And-Resources](https://github.com/arpit456jain/30-days-of-GCP-Full-Guide-And-Resources) | Documentaion | |
-| [Ebook foundation-Freely available programming books](https://github.com/EbookFoundation/free-programming-books)| Documentaion | |
+| [30-days-of-GCP-Full-Guide-And-Resources](https://github.com/arpit456jain/30-days-of-GCP-Full-Guide-And-Resources) | Documentaion | | 
 
 ## Feel Free to Add more Repos to it
