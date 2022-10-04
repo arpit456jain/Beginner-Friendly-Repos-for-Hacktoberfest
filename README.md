@@ -18,5 +18,7 @@
 | [Getting Started With Open Source](https://github.com/arpit456jain/Getting-Started-with-open-source) | Documentation,Git,GitHub                      | |
 | [Developer Profile Readme](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/)        | Documentation,Git,GitHub,Markdown             | |
 | [30-days-of-GCP-Full-Guide-And-Resources](https://github.com/arpit456jain/30-days-of-GCP-Full-Guide-And-Resources) | Documentaion | | 
+| [CodingEasy](https://github.com/arpit456jain/CodingEasy) | HTML,CSS,JS,Bootstrap,Documentation | | 
+| [CodesmashersBlog-In-Django](https://github.com/arpit456jain/CodesmashersBlog-In-Django) | HTML,CSS,JS,Bootstrap,Django | | 
 
 ## Feel Free to Add more Repos to it
