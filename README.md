@@ -20,5 +20,5 @@
 | [30-days-of-GCP-Full-Guide-And-Resources](https://github.com/arpit456jain/30-days-of-GCP-Full-Guide-And-Resources) | Documentaion | | 
 | [CodingEasy](https://github.com/arpit456jain/CodingEasy) | HTML,CSS,JS,Bootstrap,Documentation | | 
 | [CodesmashersBlog-In-Django](https://github.com/arpit456jain/CodesmashersBlog-In-Django) | HTML,CSS,JS,Bootstrap,Django | | 
-
+|[DSA Resources](https://github.com/avinash201199/DSA-Resources)                                       |Documentation                                   ||
 ## Feel Free to Add more Repos to it
