@@ -21,4 +21,5 @@
 | [CodingEasy](https://github.com/arpit456jain/CodingEasy) | HTML,CSS,JS,Bootstrap,Documentation | | 
 | [CodesmashersBlog-In-Django](https://github.com/arpit456jain/CodesmashersBlog-In-Django) | HTML,CSS,JS,Bootstrap,Django | | 
 |[DSA Resources](https://github.com/avinash201199/DSA-Resources)                                       |Documentation                                   ||
+| [Computer-Science-Resources](https://github.com/shivanshsinghx365/Computer-Science-Resources) | C,Python,DSA,Java,interview... | |
 ## Feel Free to Add more Repos to it
