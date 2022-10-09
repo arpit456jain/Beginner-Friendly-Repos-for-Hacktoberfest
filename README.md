@@ -55,6 +55,6 @@
 | [Share-A-Place](https://github.com/Rishit30G/Share-A-Place)                                           | HTML,CSS,JS           | |
 | [Dev-Geeks](https://github.com/pranjay-poddar/Dev-Geeks)                                              | HTML,CSS,JS,ReactJS             | |
 | [DSA Resources](https://github.com/avinash201199/DSA-Resources)                                       |Documentation                                   ||
-
+|[Basic Programs (Programmming Resources)](https://github.com/itsnporg/Basic-Programs.git)                                                              |HTML,CSS,JS,C,C++,C#,Golang,PHP,Typescript,etc. | Beginner Friendly |
 
 ## Feel Free to Add more Repos to it
