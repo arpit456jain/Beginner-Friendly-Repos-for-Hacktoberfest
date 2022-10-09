@@ -43,6 +43,6 @@
 | [Solidity-Pathshala](https://github.com/Vikash-8090-Yadav/Solidity-Pathshala) | Solidity | Crypto |
 | [Web3.0-World](https://github.com/Vikash-8090-Yadav/Web3.0-World) | Solidity | Crypto |
 | [CodesmashersBlog-In-Django](https://github.com/arpit456jain/CodesmashersBlog-In-Django) | HTML,CSS,JS,Bootstrap,Django | | 
-|[DSA Resources](https://github.com/avinash201199/DSA-Resources)                                       |Documentation                                   ||
+| [DSA Resources](https://github.com/avinash201199/DSA-Resources)                                       |Documentation                                   ||
 
 ## Feel Free to Add more Repos to it
