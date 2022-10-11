@@ -57,5 +57,6 @@
 | [DSA Resources](https://github.com/avinash201199/DSA-Resources)                                       |Documentation                                   ||
 |[Basic Programs (Programmming Resources)](https://github.com/itsnporg/Basic-Programs.git)                                                              |HTML,CSS,JS,C,C++,C#,Golang,PHP,Typescript,etc. | Beginner Friendly |
 | [hacktoberfest2022](https://github.com/killerraj369/hacktoberfest2022) | HTML,CSS,JS,Beginner Friendly ||
+| [Hack-October](https://github.com/i-aka5h/Hack-October) | HTML,CSS,JS | For Newbie Contributors
 
 ## Feel Free to Add more Repos to it
