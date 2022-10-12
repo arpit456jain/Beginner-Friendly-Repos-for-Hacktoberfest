@@ -1,9 +1,9 @@
 <div align="center">
 <h1>Beginner-friendly Repos-for-Hacktoberfest</h1> 
-  
-[Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-  
-![Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+#  Hacktoberfest 2022 Is Awesome🔥
+![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
+
+<div align="center">
 
  </div>    
  
@@ -59,3 +59,65 @@
 | [hacktoberfest2022](https://github.com/killerraj369/hacktoberfest2022) | HTML,CSS,JS,Beginner Friendly ||
 
 ## Feel Free to Add more Repos to it
+## Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* html
+* Css
+* Java script
+* python
+* reactjs
+* node js
+* php
+* typescript 
+* flutter
+and many other tech stacks 
+
+p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### How to Contribute to this repository
+
+1. Fork the repository (Click the Fork button in the top right of this page,
+   click your Profile Image)
+2. Clone the forked repository to your local machine.
+
+```markdown
+git clone https://github.com/your-username/PriceTemplate.git
+```
+
+3. change the present working directory
+
+```markdown
+cd PriceTemplate
+```
+
+5. Make your changes
+
+```markdown
+git add . git commit -m "Your commit Message"
+git push origin branch-name
+```
+
+- Make a pull request.
+- Star the repository.
+
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## REPO STATUS
+
+![GitHub PR Open](https://img.shields.io/github/issues-pr/arpit456jain/Beginner-Friendly-Repos-for-Hacktoberfest?style=for-the-badge&color=aqua)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/arpit456jain/Beginner-Friendly-Repos-for-Hacktoberfest?style=for-the-badge&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/arpit456jain/Beginner-Friendly-Repos-for-Hacktoberfest?style=for-the-badge&color=brightgreen)
+<br><br>
