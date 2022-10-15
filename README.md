@@ -1,8 +1,8 @@
 <div align="center">
 <h1>Beginner-friendly Repos-for-Hacktoberfest</h1> 
-#  Hacktoberfest 2022 Is Awesome🔥
-![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
+ Hacktoberfest 2022 Is Awesome🔥
 
+![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
 <div align="center">
 
  </div>    
@@ -74,7 +74,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * flutter
 and many other tech stacks 
 
-p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"> (<a href="#readme-top">back to top</a>)</p>
 
 ### How to Contribute to this repository
 
@@ -114,6 +114,15 @@ command to run if program contains helper info
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
+
+## Our Contributors
+
+<a href="https://github.com/ElvinPero/PriceTemplate/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=arpit456jain
+/
+Beginner-Friendly-Repos-for-Hacktoberfest" />
+</a>
 
 ## REPO STATUS
 
