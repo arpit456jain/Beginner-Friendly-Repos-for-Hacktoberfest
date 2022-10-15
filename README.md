@@ -58,7 +58,7 @@
 | [DSA Resources](https://github.com/avinash201199/DSA-Resources)                                                    | Documentation                                   |                      |
 | [Basic Programs (Programmming Resources)](https://github.com/itsnporg/Basic-Programs.git)                          | HTML,CSS,JS,C,C++,C#,Golang,PHP,Typescript,etc. | Beginner Friendly    |
 | [hacktoberfest2022](https://github.com/killerraj369/hacktoberfest2022)                                             | HTML,CSS,JS,Beginner Friendly                   |                      |
-| [LeetCode-Question](https://github.com/Octet3290/Leetcode-Questions)                                               | C++,java,python                                 |
+| [LeetCode-Question](https://github.com/Octet3290/Leetcode-Questions)                                               | C++,java,python                                 |                      |
 
 ## Feel Free to Add more Repos to it
 
