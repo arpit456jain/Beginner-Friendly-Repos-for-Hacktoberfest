@@ -59,6 +59,11 @@
 | [Basic Programs (Programmming Resources)](https://github.com/itsnporg/Basic-Programs.git)                          | HTML,CSS,JS,C,C++,C#,Golang,PHP,Typescript,etc. | Beginner Friendly    |
 | [hacktoberfest2022](https://github.com/killerraj369/hacktoberfest2022)                                             | HTML,CSS,JS,Beginner Friendly                   |                      |
 | [LeetCode-Question](https://github.com/Octet3290/Leetcode-Questions)                                               | C++,java,python                                 |                      |
+| [DSA Based Repo](https://github.com/DugarRishab/Algo.io)                                                           | C++,java,python                                 | Beginner Friendly    |
+| [Caucus](https://github.com/Rishabh-malhotraa/caucus/issues)                                                       | React,java,python                                | Beginner Friendly    |
+| [Conception](https://github.com/roopeshsn/conception)                                                              | react javascript nextjs                          | Beginner Friendly    |
+| [Loads of Logic](https://github.com/Jiganesh/Loads-Of-Logic)                                                       | HTML,python                                     | Beginner Friendly    |
+| [Hacktoberfest Animations](https://github.com/NiallEccles/Hacktoberfest-animations)                                | CSS,JavaScript,HTML                              | Beginner Friendly    |
 
 ## Feel Free to Add more Repos to it
 
