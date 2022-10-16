@@ -59,6 +59,7 @@
 | [Basic Programs (Programmming Resources)](https://github.com/itsnporg/Basic-Programs.git)                          | HTML,CSS,JS,C,C++,C#,Golang,PHP,Typescript,etc. | Beginner Friendly    |
 | [hacktoberfest2022](https://github.com/killerraj369/hacktoberfest2022)                                             | HTML,CSS,JS,Beginner Friendly                   |                      |
 | [LeetCode-Question](https://github.com/Octet3290/Leetcode-Questions)                                               | C++,java,python                                 |                      |
+| [Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet.git)                                               | HTML,CSS                                      | Beginner Friendly    |
 
 ## Feel Free to Add more Repos to it
 
