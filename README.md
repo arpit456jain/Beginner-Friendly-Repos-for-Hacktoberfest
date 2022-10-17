@@ -17,9 +17,6 @@
 | [CodeSmashers Blog In Django](https://github.com/arpit456jain/CodesmashersBlog-In-Django)            | HTML,CSS,JS,Python,Django                     | |
 | [Getting Started With Open Source](https://github.com/arpit456jain/Getting-Started-with-open-source) | Documentation,Git,GitHub                      | |
 | [Developer Profile Readme](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/)        | Documentation,Git,GitHub,Markdown             | |
-| [Amazing Front-End Contributions ](https://github.com/Developer-Student-Clubs-MMDU/Frontend-Web-Development) | Code , Documentation, Vue, React, Next |  Beginner Friendly, Good First Issue |
-| [Amazing Back-End Contributions ](https://github.com/Developer-Student-Clubs-MMDU/Backend-Web-Development) | Code , Documentation, Springboot, Node, Flutter |  Beginner Friendly, Good First Issue |
-| [Amazing Database Management Systems Contributions ](https://github.com/Developer-Student-Clubs-MMDU/Database-Management-System) | Code , Documentation, MongoDB, SQL, NoSQL, E-R Model |  Beginner Friendly, Good First Issue |
 | [30-days-of-GCP-Full-Guide-And-Resources](https://github.com/arpit456jain/30-days-of-GCP-Full-Guide-And-Resources) | Documentaion | | 
 | [CodingEasy](https://github.com/arpit456jain/CodingEasy) | HTML,CSS,JS,Bootstrap,Documentation | | 
 | [CodesmashersBlog-In-Django](https://github.com/arpit456jain/CodesmashersBlog-In-Django) | HTML,CSS,JS,Bootstrap,Django | |
@@ -60,6 +57,9 @@
 | [DSA Resources](https://github.com/avinash201199/DSA-Resources)                                       |Documentation                                   ||
 |[Basic Programs (Programmming Resources)](https://github.com/itsnporg/Basic-Programs.git)                                                              |HTML,CSS,JS,C,C++,C#,Golang,PHP,Typescript,etc. | Beginner Friendly |
 | [hacktoberfest2022](https://github.com/killerraj369/hacktoberfest2022) | HTML,CSS,JS,Beginner Friendly ||
+| [Amazing Front-End Contributions ](https://github.com/Developer-Student-Clubs-MMDU/Frontend-Web-Development) | Code , Documentation, Vue, React, Next |  Beginner Friendly, Good First Issue |
+| [Amazing Back-End Contributions ](https://github.com/Developer-Student-Clubs-MMDU/Backend-Web-Development) | Code , Documentation, Springboot, Node, Flutter |  Beginner Friendly, Good First Issue |
+| [Amazing Database Management Systems Contributions ](https://github.com/Developer-Student-Clubs-MMDU/Database-Management-System) | Code , Documentation, MongoDB, SQL, NoSQL, E-R Model |  Beginner Friendly, Good First Issue |
 
 ## Feel Free to Add more Repos to it
 ## Built With
