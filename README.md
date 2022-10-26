@@ -120,6 +120,7 @@
 | [Front-End Contributions](https://github.com/Developer-Student-Clubs-MMDU/Frontend-Web-Development)                | Code , Documentation, Vue, React, Next          |                      |
 | [Back-End Contributions](https://github.com/Developer-Student-Clubs-MMDU/Backend-Web-Development)                  | Code , Documentation, Springboot, Node, Flutter  |                      |
 | [Database Management Systems](https://github.com/Developer-Student-Clubs-MMDU/Database-Management-System)          | Code , Documentation                              |                      |
+| [Resource Finder](https://github.com/Bauddhik-Geeks/Resource-Finder)                                               |HTML,CSS,JavaScript                      |Beginner Friendly                      |
 >>>>>>> master
 
 ## Feel Free to Add more Repos to it
